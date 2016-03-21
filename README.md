@@ -10,7 +10,7 @@ Check the following details to integrate this library into your project.
 
 ##### Dictionary #####
 
-There are several self-made-dictionaries, you can download them by clicking [self-made-dictionary](./self-made-dictionary) and download them. And call `addDictionary(string filePath)` to add them into you `WordSegment` instance.
+There are several self-made-dictionaries, you can download them by clicking [self-made-dictionary](./self-made-dictionary). And call `addDictionary(string filePath)` to add them into you `WordSegment` instance.
 
 ##### For Objective-C #####
 
