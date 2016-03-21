@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a library to deal with the Chinese-Word-Segmentation issus. 
+This is a library to deal with the Chinese-Word-Segmentation issus.Actually, it can alse be used to deal with the segmentation issus of other languages, once you added the dictionary into the `WordSegment`. 
 
 ### Usage
 
