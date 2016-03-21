@@ -2,7 +2,7 @@
 //  WordNode.h
 //  ChineseWordSegment
 //
-//  WordNode, hold a single character and the fellowing characters
+//  WordNode, hold a single character and the following characters
 //        by a dictionary from the directory file
 //
 //  Created by HeryLong on 16/3/20.
@@ -15,15 +15,15 @@
 
 // its character
 @property (nonatomic, copy) NSString* word;
-// its fellowing characters created by the directory file
+// its following characters created by the dictionary file
 @property (nonatomic, strong) NSMutableDictionary* subWords;
 
 // init a instance with its character
 -(WordNode*) initWithWord:(NSString*) word;
 
-//  add fellowing character from the directory file
+//  add fellowing character from the dictionary file
 -(WordNode*) addSubWord:(NSString*) subWord;
-//  get fellowing character, if exist
+//  get following character, if exist
 -(WordNode*) getSubWord:(NSString*) subWord;
 
 @end

@@ -58,7 +58,7 @@ static WordNode* rootWordNode = nil;
             currentNode = rootWordNode;
         }
     }
-    //the last seperate word
+    //the last separate word
     [segments addObject:tmpWord];
     
     return segments;
