@@ -21,7 +21,7 @@
 // init a instance with its character
 -(WordNode*) initWithWord:(NSString*) word;
 
-//  add fellowing character from the dictionary file
+//  add following character from the dictionary file
 -(WordNode*) addSubWord:(NSString*) subWord;
 //  get following character, if exist
 -(WordNode*) getSubWord:(NSString*) subWord;
