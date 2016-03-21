@@ -43,3 +43,6 @@ There are several self-made-dictionaries, you can download them by clicking [sel
 3: call `WordSegment.addDictionary(dictionaryFile)` to add dictioanry file your download from [self-made-dictionary](./self-made-dictionary).
 
 4: call `WordSegment.segment(sentence)` to segment the input sentence into seperate words.
+
+### Contract ###
+You can contract me with my email(herylong.ahu@gmail.com), or visit my facebook(https://www.facebook.com/people/Hery-Long/).
