@@ -44,5 +44,10 @@ There are several self-made-dictionaries, you can download them by clicking [sel
 
 4: call `WordSegment.segment(sentence)` to segment the input sentence into seperate words.
 
+##### For WebService #####
+
+You can access this Segmentaton Server by sending a `GET`request at `http://218.241.10.190:8086/SegmentServer.svc/segments/测试内容` (replace the chinese content by yours). Notice, the segmentation results are not so correct , cause the server many not loads enough dictionary. 
+
+
 ### Contract ###
 You can contract me with my email(herylong.ahu@gmail.com), or visit my facebook(https://www.facebook.com/people/Hery-Long/).
